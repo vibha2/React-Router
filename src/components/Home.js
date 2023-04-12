@@ -1,5 +1,5 @@
 import React from 'react'
-import { Outlet } from 'react-router-dom';
+// import { Outlet } from 'react-router-dom';
 
 //rafce
 
@@ -12,3 +12,6 @@ const Home = () => {
 }
 
 export default Home;
+
+// requirment, planning, 
+// execution/development ,testing, deploy
